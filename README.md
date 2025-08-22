@@ -23,7 +23,7 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/karankumar282828"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/karankumar75055"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/KaranKumar5384"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:karanrubi282828@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
