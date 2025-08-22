@@ -1,26 +1,60 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE">
-
-- 🌱 I’m currently learning **React, Machine Learning, DSA**
-
-- 💬 Ask me about **Js, React**
-
-- 📫 How to reach me **karanrubi282828@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-<a href="https://twitter.com/karankumar5384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karankumar5384" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-kumar-12b227239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-kumar-12b227239/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/karanmahima5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/karanmahima5/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/cpp_coder28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/cpp_coder28" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/cpp_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/cpp_hacker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/qtndtvymwx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/qtndtvymwx/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/karanrubnbzd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/karanrubnbzd/" height="30" width="40" /></a>
+<!-- Banner -->
+<h1 align="center">🚨 ResqLink 🚨</h1>
+<p align="center">
+  <b>A real-time disaster management & emergency communication platform 🌍⚡</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge&color=red" />
+  <img src="https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge&color=green" />
+</p>
+
+---
+
+## ⚡ Features
+
+✅ Real-time SOS Alerts (location-based)  
+✅ Volunteer & NGO Coordination 👥  
+✅ Resource Tracking (Food, Water, Medical Kits 🚑)  
+✅ Offline-first Support (low network areas 📶)  
+✅ Multilingual support 🌐  
+
+---
+
+## 📸 Screenshots
+
+| Dashboard | Alerts | Volunteers |
+|-----------|--------|------------|
+| ![Dashboard](link-to-screenshot) | ![Alerts](link-to-screenshot) | ![Volunteers](link-to-screenshot) |
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React ⚛️ + Tailwind 🌈  
+- **Backend:** Node.js 🚀 + Express 🌀  
+- **Database:** MongoDB 🍃  
+- **Hosting:** Vercel / Netlify ☁️  
+- **Extra:** Shadcn UI 🎨, Appwrite 🔥  
+
+---
+
+## 🛠️ Installation
+
+```bash
+# Clone repo
+git clone https://github.com/USERNAME/REPO.git
+
+# Go inside
+cd REPO
+
+# Install dependencies
+npm install
+
+# Run app
+npm run dev
