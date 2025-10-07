@@ -3,15 +3,15 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech student @ IIIT Kalyani (2023-2027)
-- 🌱 Currently learning **DSA with C++ and Building real world projects**  
+- 🌱 Currently learning **DSA with C++**  
 - 🛠️ Building **real-world projects with MERN Stack** 
 
 
 ## 🚀 Tech Skills
-**Languages:** C++ | JavaScript | Python 
+**Languages:** C++ | JavaScript | Python <br/>
 **Frontend:** React | TailwindCSS | CSS | HTML
 **Backend:** Node.js | Express | Appwrite  
-**Database:** MongoDB 
+**Database:** MongoDB <br/>
 **Tools:** Git | GitHub | Postman
 
 ## 📊 GitHub Stats
