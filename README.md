@@ -8,10 +8,11 @@
 
 
 ## 🚀 Tech Skills
-**Languages:** C++ | JavaScript | Python <br/>
-**Frontend:** React | TailwindCSS | CSS | HTML
+**Programming Languages:** C++ | JavaScript(ES6+) | Python | C<br/>
+**Frontend:** React | Redux | TailwindCSS | CSS | HTML
 **Backend:** Node.js | Express | Appwrite  
 **Database:** MongoDB <br/>
+**CS Fundamentals:** Data Structures and Algorithms | Object-Oriented Programming(OOP)
 **Tools:** Git | GitHub | Postman
 
 ## 📊 GitHub Stats
